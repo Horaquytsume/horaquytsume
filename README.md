@@ -13,7 +13,7 @@
 ---
 
 <a id="mascote"></a>
-<h2 align="center"><img src="./assets/section-pet.svg" alt="Meu mascote no perfil" height="56"></h2>
+<h2 align="center"><img src="./assets/section-pet.svg" alt="Mascote interativo" height="56"></h2>
 
 <div align="center">
   <a href="https://horaquytsume.github.io/horaquytsume/"><img src="./assets/pet-link.svg" alt="Clique para brincar com meu mascote interativo" height="54"></a>
