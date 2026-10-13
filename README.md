@@ -1,6 +1,5 @@
 <div align="center">
   <h1><img src="./assets/profile-title.svg" alt="Olá, eu sou o Walace!" width="100%"></h1>
-  <p><img src="https://komarev.com/ghpvc/?username=Horaquytsume&amp;color=blueviolet&amp;style=flat-square" alt="Contador de visitas do perfil"></p>
   <p>
     <a href="#projetos"><img src="./assets/nav-projects.svg" alt="Explorar projetos" height="46"></a>
     &nbsp;
