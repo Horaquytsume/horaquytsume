@@ -38,6 +38,8 @@
   <img alt="HTML5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;
   <img alt="CSS3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;&nbsp;
+  <code>Python</code>
 </p>
 
 <a id="estatisticas"></a>
@@ -60,3 +62,4 @@
 <img src="./assets/profile-thanks.svg" alt="Obrigado por visitar meu perfil! Que comece a próxima fase." height="48">
 
 </div>
+
