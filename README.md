@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="./assets/profile-game-banner.png" alt="Cenário original em pixel art: uma pessoa explorando um mundo de aventura digital" width="100%">
-
 # 👋 Olá, eu sou José Walace!
 
-### Aprendendo tecnologia e colocando ideias em prática.
+### Aprendendo desenvolvimento web e colocando ideias em prática.
 
-<p>Cada repositório é uma nova fase da minha jornada — explore meus estudos e projetos.</p>
+<p>Cada repositório é uma nova fase da minha jornada. Explore meus estudos e projetos!</p>
 
 <p>
-  <a href="https://github.com/Horaquytsume?tab=repositories">🎮 Explorar projetos</a>
+  <a href="#projetos">🎮 Explorar projetos</a>
   &nbsp;·&nbsp;
   <a href="#tecnologias">🧰 Ver tecnologias</a>
   &nbsp;·&nbsp;
@@ -20,13 +18,16 @@
 
 ---
 
-## 🗺️ Fases em andamento
+<a id="projetos"></a>
+## 🗺️ Projetos e estudos
 
-- [Curso HTML e CSS — SENAC](https://github.com/Horaquytsume/Curso_Html_Css_senac)
-- [Curso HTML e CSS](https://github.com/Horaquytsume/Curso_Html.Css)
-- [CSS e HTML](https://github.com/Horaquytsume/CSS_HTML_CSS)
-- [Cafeteria](https://github.com/Horaquytsume/cafeteria)
+- [Banco de dados — exercícios MySQL](https://github.com/Horaquytsume/Banco)
+- [DecoraLab — projeto de interiores](https://github.com/Horaquytsume/DecoraLab)
+- [Cafeteria Brasil — site em HTML e CSS](https://github.com/Horaquytsume/Cafeteria-Brasil)
+- [Renovando Vidas — site de cuidados](https://github.com/Horaquytsume/cuidadordeidosos)
+- [Formatação e imagens — exercício web](https://github.com/Horaquytsume/teste01)
 
+<a id="tecnologias"></a>
 ## 🧰 Tecnologias
 
 <p align="center">
@@ -35,6 +36,7 @@
   <img alt="CSS3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
+<a id="estatisticas"></a>
 ## 📊 Estatísticas
 
 <details>
