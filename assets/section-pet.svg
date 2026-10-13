@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="56" viewBox="0 0 620 56" role="img" aria-labelledby="t d"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#35d6ff"/><stop offset="28%" stop-color="#7d7bff"/><stop offset="55%" stop-color="#d86bff"/><stop offset="78%" stop-color="#ff71a8"/><stop offset="100%" stop-color="#ffc857"/></linearGradient></defs><title id="t">MEU MASCOTE NO PERFIL</title><desc id="d">Título colorido em gradiente para o perfil de José Walace.</desc><rect x="2" y="2" width="616" height="52" rx="14" fill="#101426" stroke="url(#g)" stroke-width="2"/><text x="310.0" y="36.4" text-anchor="middle" fill="url(#g)" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">MEU MASCOTE NO PERFIL</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="56" viewBox="0 0 620 56" role="img" aria-labelledby="t d">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#35d6ff" />
+      <stop offset="28%" stop-color="#7d7bff" />
+      <stop offset="55%" stop-color="#d86bff" />
+      <stop offset="78%" stop-color="#ff71a8" />
+      <stop offset="100%" stop-color="#ffc857" />
+    </linearGradient>
+  </defs>
+  <title id="t">Mascote interativo</title>
+  <desc id="d">Título colorido em gradiente.</desc>
+  <rect x="2" y="2" width="616" height="52" rx="14" fill="#101426" stroke="url(#g)" stroke-width="2" />
+  <text x="310" y="38" text-anchor="middle" fill="url(#g)" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">MASCOTE INTERATIVO 🐾</text>
+</svg>

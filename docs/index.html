@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#101426">
+    <meta name="description" content="Conheça e cuide do mascote virtual de Walace: faça carinho, brinque e acompanhe o bem-estar dele.">
+    <title>Meu Mascote Virtual · Walace</title>
+    <link rel="stylesheet" href="./pet.css">
+    <script src="./pet.js" defer></script>
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="page-header">
+        <a class="back-link" href="https://github.com/Horaquytsume">← Voltar ao perfil</a>
+        <span class="header-chip">UM CANTINHO DE CARINHO 🐾</span>
+      </header>
+
+      <section class="intro">
+        <p class="eyebrow">MASCOTE VIRTUAL</p>
+        <h1>Oi, eu sou <span id="pet-name-heading">Pixel</span>!</h1>
+        <p>Faça carinho, brinque comigo e ajude a manter meu bem-estar em dia.</p>
+      </section>
+
+      <div class="pet-layout">
+        <section class="card pet-card" aria-labelledby="pet-heading">
+          <h2 id="pet-heading" class="sr-only">Interaja com seu mascote</h2>
+          <div class="pet-stage">
+            <div class="sparkle sparkle-one" aria-hidden="true">✦</div>
+            <div class="sparkle sparkle-two" aria-hidden="true">✧</div>
+            <div id="pet-avatar" class="pet-avatar" role="img" aria-label="Gatinho virtual">🐱</div>
+            <p id="pet-message" class="speech-bubble" aria-live="polite">Oi! Que bom que você chegou. Vamos brincar?</p>
+          </div>
+
+          <div class="pet-settings">
+            <form id="name-form" class="name-form">
+              <label for="pet-name-input">Nome do mascote</label>
+              <div class="inline-control">
+                <input id="pet-name-input" type="text" maxlength="18" autocomplete="off" value="Pixel">
+                <button class="button button-small" type="submit">Salvar</button>
+              </div>
+            </form>
+            <label class="species-control" for="pet-species">
+              Escolha seu mascote
+              <select id="pet-species">
+                <option value="cat">Gatinho 🐱</option>
+                <option value="dog">Cachorrinho 🐶</option>
+                <option value="fox">Raposa 🦊</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="action-grid" aria-label="Ações do mascote">
+            <button class="action-button action-cuddle" type="button" data-action="cuddle"><span aria-hidden="true">💖</span> Fazer carinho</button>
+            <button class="action-button action-play" type="button" data-action="play"><span aria-hidden="true">🧶</span> Brincar</button>
+            <button class="action-button action-snack" type="button" data-action="snack"><span aria-hidden="true">🍪</span> Dar petisco</button>
+            <button class="action-button action-rest" type="button" data-action="rest"><span aria-hidden="true">🌙</span> Descansar</button>
+          </div>
+          <p class="local-note">Seu progresso fica salvo somente neste navegador.</p>
+        </section>
+
+        <aside class="card wellbeing-card" aria-labelledby="wellbeing-heading">
+          <p class="eyebrow">PAINEL DO MASCOTE</p>
+          <h2 id="wellbeing-heading">Como estou?</h2>
+          <p id="mood-summary" class="mood-summary" aria-live="polite">Estou feliz por te ver!</p>
+
+          <div class="meter-list">
+            <div class="meter-row">
+              <div class="meter-label"><span>Felicidade</span><output id="happy-value">70%</output></div>
+              <progress id="happy-meter" class="meter meter-happy" max="100" value="70" aria-label="Felicidade"></progress>
+            </div>
+            <div class="meter-row">
+              <div class="meter-label"><span>Fome</span><output id="hunger-value">35%</output></div>
+              <progress id="hunger-meter" class="meter meter-hunger" max="100" value="35" aria-label="Fome"></progress>
+            </div>
+            <div class="meter-row">
+              <div class="meter-label"><span>Energia</span><output id="energy-value">80%</output></div>
+              <progress id="energy-meter" class="meter meter-energy" max="100" value="80" aria-label="Energia"></progress>
+            </div>
+          </div>
+
+          <div class="friendship-box">
+            <span class="friendship-icon" aria-hidden="true">✨</span>
+            <div><strong id="interaction-count">0</strong><span>momentos juntos</span></div>
+          </div>
+          <button id="reset-pet" class="reset-button" type="button">Recomeçar do zero</button>
+        </aside>
+      </div>
+
+      <footer class="page-footer">
+        <span>Feito com carinho por Walace</span>
+        <a href="https://github.com/Horaquytsume">GitHub · Horaquytsume</a>
+      </footer>
+    </main>
+  </body>
+</html>
