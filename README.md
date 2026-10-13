@@ -4,16 +4,16 @@
   <img src="./assets/profile-title.svg" alt="Olá, eu sou José Walace!" width="100%">
 </h1>
 
-### Aprendendo desenvolvimento web e colocando ideias em prática.
+<p><img src="./assets/profile-tagline.svg" alt="Aprendendo, criando e evoluindo" height="48"></p>
 
 <p>Cada repositório é uma nova fase da minha jornada. Explore meus estudos e projetos!</p>
 
 <p>
-  <a href="#projetos">🎮 Explorar projetos</a>
-  &nbsp;·&nbsp;
-  <a href="#tecnologias">🧰 Ver tecnologias</a>
-  &nbsp;·&nbsp;
-  <a href="#estatisticas">📊 Abrir estatísticas</a>
+  <a href="#projetos"><img src="./assets/nav-projects.svg" alt="Explorar projetos" height="46"></a>
+  &nbsp;
+  <a href="#tecnologias"><img src="./assets/nav-tech.svg" alt="Ver tecnologias" height="46"></a>
+  &nbsp;
+  <a href="#estatisticas"><img src="./assets/nav-stats.svg" alt="Abrir estatísticas" height="46"></a>
 </p>
 
 </div>
@@ -21,16 +21,18 @@
 ---
 
 <a id="projetos"></a>
-## 🗺️ Projetos e estudos
+<h2><img src="./assets/section-projects.svg" alt="Projetos e estudos" height="56"></h2>
 
-- [Banco de dados — exercícios MySQL](https://github.com/Horaquytsume/Banco)
-- [DecoraLab — projeto de interiores](https://github.com/Horaquytsume/DecoraLab)
-- [Cafeteria Brasil — site em HTML e CSS](https://github.com/Horaquytsume/Cafeteria-Brasil)
-- [Renovando Vidas — site de cuidados](https://github.com/Horaquytsume/cuidadordeidosos)
-- [Formatação e imagens — exercício web](https://github.com/Horaquytsume/teste01)
+<p>
+  <a href="https://github.com/Horaquytsume/Banco"><img src="./assets/project-banco.svg" alt="Banco de dados — exercícios MySQL" height="52"></a><br>
+  <a href="https://github.com/Horaquytsume/DecoraLab"><img src="./assets/project-decoralab.svg" alt="DecoraLab — projeto de interiores" height="52"></a><br>
+  <a href="https://github.com/Horaquytsume/Cafeteria-Brasil"><img src="./assets/project-cafeteria.svg" alt="Cafeteria Brasil — site em HTML e CSS" height="52"></a><br>
+  <a href="https://github.com/Horaquytsume/cuidadordeidosos"><img src="./assets/project-renovando.svg" alt="Renovando Vidas — site de cuidados" height="52"></a><br>
+  <a href="https://github.com/Horaquytsume/teste01"><img src="./assets/project-teste01.svg" alt="Formatação e imagens — exercício web" height="52"></a>
+</p>
 
 <a id="tecnologias"></a>
-## 🧰 Tecnologias
+<h2><img src="./assets/section-tech.svg" alt="Tecnologias" height="56"></h2>
 
 <p align="center">
   <img alt="HTML5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,10 +41,10 @@
 </p>
 
 <a id="estatisticas"></a>
-## 📊 Estatísticas
+<h2><img src="./assets/section-stats.svg" alt="Estatísticas" height="56"></h2>
 
 <details>
-<summary>✨ Clique para revelar minhas estatísticas públicas</summary>
+<summary><img src="./assets/summary-stats.svg" alt="Clique para revelar minhas estatísticas públicas" height="42"></summary>
 <br>
 <div align="center">
   <a href="https://github.com/Horaquytsume">
@@ -55,6 +57,6 @@
 
 <div align="center">
 
-💜 Obrigado por visitar meu perfil! Que comece a próxima fase.
+<img src="./assets/profile-thanks.svg" alt="Obrigado por visitar meu perfil! Que comece a próxima fase." height="48">
 
 </div>
