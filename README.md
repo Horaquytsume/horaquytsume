@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="./assets/profile-title.svg" alt="Olá, eu sou José Walace!" width="100%">
+  <img src="./assets/profile-title.svg" alt="Olá, eu sou Walace!" width="100%">
 </h1>
 
 <p><img src="./assets/profile-tagline.svg" alt="Aprendendo, criando e evoluindo" height="48"></p>
