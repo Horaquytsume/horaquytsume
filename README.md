@@ -16,7 +16,8 @@
 <h2 align="center"><img src="./assets/section-pet.svg" alt="Meu mascote no perfil" height="56"></h2>
 
 <div align="center">
-  <p aria-label="Mascote decorativo de gato">🐱 🐾</p>
+  <a href="https://horaquytsume.github.io/horaquytsume/"><img src="./assets/pet-link.svg" alt="Clique para brincar com meu mascote interativo" height="54"></a>
+  <p>Escolha um gatinho, cachorro ou raposa; dê carinho, brinque e cuide do bem-estar do seu companheiro.</p>
 </div>
 
 <a id="sobre"></a>
