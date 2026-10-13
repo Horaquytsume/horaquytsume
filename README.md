@@ -39,7 +39,7 @@
   &nbsp;&nbsp;
   <img alt="CSS3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;
-  <code>Python</code>
+  <img alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
 </p>
 
 <a id="estatisticas"></a>
