@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou José Walace!
+<h1 align="center">
+  <img src="./assets/profile-title.svg" alt="Olá, eu sou José Walace!" width="100%">
+</h1>
 
 ### Aprendendo desenvolvimento web e colocando ideias em prática.
 
