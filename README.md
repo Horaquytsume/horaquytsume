@@ -2,19 +2,30 @@
 
 # 👋 Olá, eu sou José Walace!
 
-### Explorando tecnologia, aprendendo e compartilhando ideias.
+### Aprendendo tecnologia e colocando ideias em prática.
 
-Este é meu espaço para apresentar meus estudos e projetos. Fique à vontade para explorar meu perfil e acompanhar minha jornada.
+<p>Este perfil reúne meus estudos e projetos. Explore os repositórios e acompanhe minha evolução!</p>
 
-[📂 Meu perfil no GitHub](https://github.com/Horaquytsume) · [📊 Ver estatísticas](#estatisticas) · [🙋 Sobre mim](#sobre-mim)
+<a href="https://github.com/Horaquytsume?tab=repositories">📂 Meus projetos</a> · <a href="#tecnologias">💻 Tecnologias</a> · <a href="#estatisticas">📊 Estatísticas</a>
 
 </div>
 
 ---
 
-## Sobre mim
+## Tecnologias
 
-Gosto de aprender coisas novas e estou explorando o mundo da tecnologia. Aqui compartilho projetos, estudos e descobertas ao longo do caminho.
+<p align="center">
+  <img alt="HTML5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;&nbsp;
+  <img alt="CSS3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
+
+## Projetos e estudos
+
+- [Curso HTML e CSS — SENAC](https://github.com/Horaquytsume/Curso_Html_Css_senac)
+- [Curso HTML e CSS](https://github.com/Horaquytsume/Curso_Html.Css)
+- [CSS e HTML](https://github.com/Horaquytsume/CSS_HTML_CSS)
+- [Cafeteria](https://github.com/Horaquytsume/cafeteria)
 
 ## Estatisticas
 
