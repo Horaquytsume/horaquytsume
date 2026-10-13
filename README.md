@@ -1,18 +1,33 @@
 <div align="center">
 
+<img src="./assets/profile-game-banner.png" alt="Cenário original em pixel art: uma pessoa explorando um mundo de aventura digital" width="100%">
+
 # 👋 Olá, eu sou José Walace!
 
 ### Aprendendo tecnologia e colocando ideias em prática.
 
-<p>Este perfil reúne meus estudos e projetos. Explore os repositórios e acompanhe minha evolução!</p>
+<p>Cada repositório é uma nova fase da minha jornada — explore meus estudos e projetos.</p>
 
-<a href="https://github.com/Horaquytsume?tab=repositories">📂 Meus projetos</a> · <a href="#tecnologias">💻 Tecnologias</a> · <a href="#estatisticas">📊 Estatísticas</a>
+<p>
+  <a href="https://github.com/Horaquytsume?tab=repositories">🎮 Explorar projetos</a>
+  &nbsp;·&nbsp;
+  <a href="#tecnologias">🧰 Ver tecnologias</a>
+  &nbsp;·&nbsp;
+  <a href="#estatisticas">📊 Abrir estatísticas</a>
+</p>
 
 </div>
 
 ---
 
-## Tecnologias
+## 🗺️ Fases em andamento
+
+- [Curso HTML e CSS — SENAC](https://github.com/Horaquytsume/Curso_Html_Css_senac)
+- [Curso HTML e CSS](https://github.com/Horaquytsume/Curso_Html.Css)
+- [CSS e HTML](https://github.com/Horaquytsume/CSS_HTML_CSS)
+- [Cafeteria](https://github.com/Horaquytsume/cafeteria)
+
+## 🧰 Tecnologias
 
 <p align="center">
   <img alt="HTML5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,24 +35,15 @@
   <img alt="CSS3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
-## Projetos e estudos
-
-- [Curso HTML e CSS — SENAC](https://github.com/Horaquytsume/Curso_Html_Css_senac)
-- [Curso HTML e CSS](https://github.com/Horaquytsume/Curso_Html.Css)
-- [CSS e HTML](https://github.com/Horaquytsume/CSS_HTML_CSS)
-- [Cafeteria](https://github.com/Horaquytsume/cafeteria)
-
-## Estatisticas
+## 📊 Estatísticas
 
 <details>
-<summary>✨ Clique para ver minhas estatísticas públicas do GitHub</summary>
+<summary>✨ Clique para revelar minhas estatísticas públicas</summary>
 <br>
 <div align="center">
-
-<a href="https://github.com/Horaquytsume">
-  <img src="https://github-readme-stats.vercel.app/api?username=Horaquytsume&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas públicas do GitHub de José Walace" />
-</a>
-
+  <a href="https://github.com/Horaquytsume">
+    <img src="https://github-readme-stats.vercel.app/api?username=Horaquytsume&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true" alt="Estatísticas públicas do GitHub de José Walace">
+  </a>
 </div>
 </details>
 
@@ -45,6 +51,6 @@
 
 <div align="center">
 
-💜 Obrigado por visitar meu perfil!
+💜 Obrigado por visitar meu perfil! Que comece a próxima fase.
 
 </div>
