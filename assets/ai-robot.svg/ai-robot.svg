@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+<title id="title">Robozinho IA do Walace</title>
+<desc id="desc">Um robô simpático em estilo colorido, com olhos azuis brilhantes.</desc>
+<defs>
+  <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55e6ff"/><stop offset="1" stop-color="#7b61ff"/></linearGradient>
+  <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#172449"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<ellipse cx="110" cy="199" rx="65" ry="11" fill="#20294a" opacity=".45"/>
+<path d="M110 20v17" stroke="#9aa7ff" stroke-width="7" stroke-linecap="round"/><circle cx="110" cy="15" r="9" fill="#b8ff63"/>
+<rect x="42" y="40" width="136" height="104" rx="34" fill="url(#body)" stroke="#c8f8ff" stroke-width="4"/>
+<rect x="56" y="54" width="108" height="74" rx="25" fill="url(#screen)"/>
+<ellipse cx="86" cy="88" rx="10" ry="14" fill="#57e8ff" filter="url(#glow)"/><ellipse cx="134" cy="88" rx="10" ry="14" fill="#57e8ff" filter="url(#glow)"/>
+<path d="M91 108q19 15 38 0" fill="none" stroke="#b8ff63" stroke-width="5" stroke-linecap="round"/>
+<rect x="72" y="147" width="76" height="49" rx="19" fill="url(#body)" stroke="#c8f8ff" stroke-width="4"/>
+<circle cx="110" cy="169" r="9" fill="#b8ff63"/><path d="M42 83H24M196 83h-18" stroke="#b8ff63" stroke-width="7" stroke-linecap="round"/>
+<path d="M70 186 56 202M150 186l14 16" stroke="#c8f8ff" stroke-width="8" stroke-linecap="round"/>
+</svg>
