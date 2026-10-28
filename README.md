@@ -9,6 +9,12 @@
   </p>
 </div>
 
+<div align="center">
+  <h2>🤖 Meu robozinho de IA</h2>
+  <img src="./assets/ai-robot.svg" alt="Robozinho de inteligência artificial" width="180">
+  <p>Um assistente virtual simpático para acompanhar meus projetos e aventuras em tecnologia!</p>
+</div>
+
 ---
 
 <a id="mascote"></a>
